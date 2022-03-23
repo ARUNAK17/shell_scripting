@@ -12,3 +12,4 @@ exit 0
 fi           }
 # Execute the function
 check_network
+---------
